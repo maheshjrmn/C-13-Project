@@ -25,9 +25,7 @@ function setup() {
   bow.addImage(bowImage); 
   bow.scale = 1;
 
-  arrow = createSprite(380,220,50,10);
-  arrow.addImage(arrowImage);
-  arrow.scale = 1;
+ 
   
 }
 
